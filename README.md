@@ -1,2 +1,2 @@
-# portfolio-FrontEnd
+# portfolio-web
 Creating my portfolio
